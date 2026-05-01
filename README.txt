@@ -1,15 +1,49 @@
-K-FIT static website
-====================
+# K-FIT by Keren Dabush
 
-קבצים:
-- index.html
-- css/style.css
-- js/script.js
-- assets/ לוגואים ותמונות
+A static landing page website for **K-FIT by Keren Dabush** — a fitness coach offering personal training guidance, customized workout plans, and nutrition menus.
 
-עריכות חשובות לפני העלאה לאוויר:
-1. בקובץ js/script.js החליפו את CONFIG.whatsappNumber למספר הווטסאפ של העסק בפורמט בינלאומי, לדוגמה 972501234567.
-2. בקובץ index.html החליפו את קישור האינסטגרם ואת כתובת המייל באזור יצירת קשר.
-3. החליפו טקסטים/מחירים לפי המסלולים האמיתיים של קרן.
+The website is built as a clean, modern, responsive one-page site with full RTL support for Hebrew content.
 
-האתר סטטי לחלוטין ומתאים להעלאה ל-Netlify, Vercel, GitHub Pages או שרת רגיל.
+---
+
+## ✨ About the Project
+
+This website presents the main K-FIT services in a clear and accessible way:
+
+- Personal fitness coaching
+- Customized workout programs
+- Personalized nutrition menus
+- Step-by-step coaching process
+- Frequently asked questions
+- Quick WhatsApp contact form
+
+The design is based on the K-FIT brand identity, using soft pink, purple, and deep navy colors, together with the official logo and visual assets.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- Responsive design
+- RTL layout support
+- Static contact form with WhatsApp integration
+
+---
+
+## 📁 Project Structure
+
+```txt
+kfit-static-site/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   ├── blue-logo.png
+│   ├── pink-logo.png
+│   └── k-sweet.png
+└── README.md

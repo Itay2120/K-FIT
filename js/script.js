@@ -1,6 +1,6 @@
 const CONFIG = {
-  // החליפו למספר הווטסאפ של העסק בפורמט בינלאומי, ללא + וללא רווחים.
-  whatsappNumber: "+97246984877"
+
+  whatsappNumber: "+972546984877"
 };
 
 const header = document.querySelector("[data-header]");
